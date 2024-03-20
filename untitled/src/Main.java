@@ -9,5 +9,8 @@ public class Main {
         //StudentNo - your index number
         Student s30689 = new Student("YourName", "YourSurname", "YourStudentsNumber");
         System.out.printf(s30689.toString()+ "\n");
+        //StudentNo - s30670
+        Student s30670 = new Student("Kacper", "Kisielewski", "s30670");
+        System.out.printf(s30670.toString()+ "\n");
     }
 }
