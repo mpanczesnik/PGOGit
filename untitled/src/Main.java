@@ -5,6 +5,7 @@ public class Main {
         // Press Alt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         Student Student1 = new Student("Jan", "Kowalski", "s11111");
+        Student Student1 = new Student("Aleksander", "Dziarkowski", "s30703");
         System.out.printf(Student1.toString() + "\n");
         //StudentNo - your index number
         Student s30689 = new Student("YourName", "YourSurname", "YourStudentsNumber");
